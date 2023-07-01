@@ -27,3 +27,19 @@ body {
   font-size: 1.5rem;
   font-style: italic;
 }
+.language {
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 1rem;
+  text-align: center;
+  font-weight:bold
+}
+ul {
+  list-style-type: none;
+}
+li {
+  display: inline;
+}
+img {
+  width: 100px;
+  height: 100px;
+}
